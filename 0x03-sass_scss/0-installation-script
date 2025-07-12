@@ -1,0 +1,5 @@
+1. Created directory '0x03-sass_scss' inside the repository.
+2. Downloaded and installed Node.js from https://nodejs.org.
+3. Verified installation using: node -v and npm -v
+4. Installed SASS using:
+   npm install sass
